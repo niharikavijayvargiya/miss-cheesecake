@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/miss-cheesecake/static/css/main.756b905a.css",
-    "main.js": "/miss-cheesecake/static/js/main.d764976e.js",
+    "main.js": "/miss-cheesecake/static/js/main.2b5540c8.js",
     "index.html": "/miss-cheesecake/index.html",
     "main.756b905a.css.map": "/miss-cheesecake/static/css/main.756b905a.css.map",
-    "main.d764976e.js.map": "/miss-cheesecake/static/js/main.d764976e.js.map"
+    "main.2b5540c8.js.map": "/miss-cheesecake/static/js/main.2b5540c8.js.map"
   },
   "entrypoints": [
     "static/css/main.756b905a.css",
-    "static/js/main.d764976e.js"
+    "static/js/main.2b5540c8.js"
   ]
 }
